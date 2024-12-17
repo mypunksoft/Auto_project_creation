@@ -91,11 +91,3 @@ python scan_sensitive_info.py .
 pip install black pylint mypy bandit
 sudo apt install cppcheck  # Для C++ (Linux)
 ```
-
----
-
-## Автор
-
-**[Ваше Имя]**  
-Для вопросов и предложений пишите на [your.email@example.com]
-```
